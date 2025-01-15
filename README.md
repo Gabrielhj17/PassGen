@@ -6,7 +6,7 @@ A command line password generator
 
 Homebrew installed on your system
 
-If not go to: [Installation](https://docs.brew.sh/Installation)
+If not go to: [Homebrew Installation](https://docs.brew.sh/Installation)
 
 ## Installation
 
